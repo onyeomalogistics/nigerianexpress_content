@@ -1,0 +1,48 @@
+{
+  "whyChooseUs": [
+    {
+      "title": "Modern Fleet",
+      "content": "We only use brand new equipments. No equipment is older than 2 years."
+    },
+    {
+      "title": "Dedicated Team",
+      "content": "We have a team of drivers that understand that time is very essential in the transportation industry and we strive to be very punctual while being really efficient."
+    },
+    {
+      "title": "Customer-Centric Approach",
+      "content": "Being a startup company, our customers are very dear to us. We treat every customer with respect as our business depends on it."
+    },
+
+    {
+      "title": "Reliability",
+      "content": "Because we only purchase brand new equipments, we are very reliable."
+    }
+  ],
+
+  "aboutUs": {
+    "title": "ABOUT US",
+    "subTitle": "Delivering Excellence in Transport Services",
+    "content": "Nigerian Express LLC is a trucking company based in Minnesota, USA.\n With a strong focus on reliability and efficiency.\n We are commited to providing top-notch transportation services to our clients.\n Our team of experienced professionals and modern fleet ensure that we deliver your goods on time, everytime!\n Trust Nigerian Express LLC for all your trucking needs."
+  },
+
+  "contactUs": {
+    "summary": "We're always ready to answer your questions and provide you with top-notch service. Below, you'll find ways to get in touch with us:",
+    "phoneNumber": "+1(651)398-1035",
+    "email": "nigerianexpress24@gmail.com",
+    "address": "12550 Portland Avenue, Burnsville Minnesota 55337"
+  },
+
+  "socialMediaLinks": {
+    "facebook": "",
+    "instagram": "https://www.instagram.com/nigerianexpressllc?igsh=aHFsY2h5eXoxMGMy&utm_source=qr",
+    "linkedIn": "https://www.linkedin.com/in/kachiakwara",
+    "whatsapp": "https://api.whatsapp.com/send?phone=+1(651)398-1035&text=Hello%20Nigerian%20Express!,%20I%20would%20like%20to"
+  },
+
+  "keyWords": {
+    "name": "keywords",
+    "content": "Transportation, Trucking, box truck, boxtruck, Minneapolis, st paul, Minneapolis trucking company, Saint paul trucking company, black owned trucking company, black owned business, small business trucking"
+  },
+
+  "footerText": "Copyright © 2023. NIGERIAN EXPRESS. All rights reserved."
+}
