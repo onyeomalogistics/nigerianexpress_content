@@ -25,6 +25,26 @@
     "content": "Nigerian Express LLC is a trucking company based in Minnesota, USA.\n With a strong focus on reliability and efficiency.\n We are commited to providing top-notch transportation services to our clients.\n Our team of experienced professionals and modern fleet ensure that we deliver your goods on time, everytime!\n Trust Nigerian Express LLC for all your trucking needs."
   },
 
+  "services": [
+    {
+      "title": "Same day on demand",
+      "details": "Call us before 10AM same day and we will get that delivery done!"
+    },
+    {
+      "title": "Expedited shipping",
+      "details": "This is our top seller right now so dont hesitate to call us for a quote."
+    },
+    {
+      "title": "Last mile delivery",
+      "details": "We work with distribution centers and Local super stores, to get customer purchases delivered in good condition."
+    },
+
+    {
+      "title": "Local and Regional Hauling",
+      "details": "We also work with brokers on the spot market to get freight delivered."
+    }
+  ],
+
   "contactUs": {
     "summary": "We're always ready to answer your questions and provide you with top-notch service. Below, you'll find ways to get in touch with us:",
     "phoneNumber": "+1(651)398-1035",
