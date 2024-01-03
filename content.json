@@ -59,10 +59,5 @@
     "whatsapp": "https://api.whatsapp.com/send?phone=+1(651)398-1035&text=Hello%20Nigerian%20Express!,%20I%20would%20like%20to"
   },
 
-  "keyWords": {
-    "name": "keywords",
-    "content": "Transportation, Trucking, box truck, boxtruck, Minneapolis, st paul, Minneapolis trucking company, Saint paul trucking company, black owned trucking company, black owned business, small business trucking"
-  },
-
   "footerText": "Copyright © 2023. NIGERIAN EXPRESS. All rights reserved."
 }
